@@ -61,6 +61,11 @@ body {
 }
 
 .carousel-caption{
-    top: 50%;
-    transform: translateY(-50%);
+
+    top:0;
+    
+    padding-left:16%;
+    
+    text-align: left;
+    
 }
